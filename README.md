@@ -11,6 +11,7 @@ A easy to use small script that monitors your Public IP and Local IP with notify
 terminal:
 
 cd script/location/path
+
 sudo chmod +x My-IP-0.1-beta.sh
 
 Now the script is almost ready for use, all we have to do now is configure it to launch on start up...
